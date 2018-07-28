@@ -1,2 +1,2 @@
 # hello-world
-Saying hello to the world
+Give it a go
